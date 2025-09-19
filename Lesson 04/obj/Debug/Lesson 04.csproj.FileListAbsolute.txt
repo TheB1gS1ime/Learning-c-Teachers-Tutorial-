@@ -1,0 +1,7 @@
+C:\Big Parr's Tutorial\Lesson 04\bin\Debug\Lesson 04.exe.config
+C:\Big Parr's Tutorial\Lesson 04\bin\Debug\Lesson 04.exe
+C:\Big Parr's Tutorial\Lesson 04\bin\Debug\Lesson 04.pdb
+C:\Big Parr's Tutorial\Lesson 04\obj\Debug\Lesson 04.csproj.AssemblyReference.cache
+C:\Big Parr's Tutorial\Lesson 04\obj\Debug\Lesson 04.csproj.CoreCompileInputs.cache
+C:\Big Parr's Tutorial\Lesson 04\obj\Debug\Lesson 04.exe
+C:\Big Parr's Tutorial\Lesson 04\obj\Debug\Lesson 04.pdb
